@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="unnamed (1)" height="120" style="border-radius:100px;" src="https://lh3.googleusercontent.com/proxy/NNJ05Imyk7FOjatJcJrYWUvOIG_SedKkMVfqPZwYTUjGFehlbMld-n-qFHbYjHNfB4VrqPJS47YjT_6XzMyZrNrpH_s0M5Wx1_tRU4H1o6QSSIwgPU4w0q7zL2yynwO4ICRLp4foVGP6h76GZab3r9w">
+  <img align="right" alt="unnamed" height="120" style="border-radius:100px;" src="https://lh3.googleusercontent.com/proxy/rCE43P4c88AqCTBJ9apQg67A5Op5OxeoChraB5CWGUZ-uQw1yZeKImqYftIEGk8-NNbpzDbuYr21w86RhbA0u30zGfGBxF8X-9L5GT8Raivu13dF6Edl-XpkW1N5OIHTywRD2YBfoCGYkwKZRtfW7kA">
 </div>
  
 ##
