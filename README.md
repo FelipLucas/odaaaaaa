@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="unnamed" height="120" style="border-radius:100px;" src="https://lh3.googleusercontent.com/proxy/QU8aUNMZ-yi_UMWapJAbAOe3aQOIOtZQxbgaxD36DVdbJkqRWkrjIBF1Pc0sdySzNLdqTlti9WHDVIWuuw0qQyBdpn513i4XQT-Z98apw74xdCfA36VZfOEzy0yhZ0YprjL-1A_sMIccrR9yYTSJx5U">
+  <img align="right" alt="54b73b60dd0ad4de573a6b5b9301300f" height="120" style="border-radius:100px;" src="https://i.pinimg.com/originals/54/b7/3b/54b73b60dd0ad4de573a6b5b9301300f.gif">
 </div>
  
 ##
