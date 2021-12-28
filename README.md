@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="anime" height="130" style="border-radius:100px;" src="https://c.tenor.com/MscNVAKPntwAAAAd/anime.gif">
+  <img align="right" alt="anime" height="140" style="border-radius:100px;" src="https://c.tenor.com/MscNVAKPntwAAAAd/anime.gif">
 </div>
  
 ##
