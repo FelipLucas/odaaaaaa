@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/felipe-lucas-4a45262a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlmRw2FGyQG6eLAkIA5iwuw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  <div>
-   <img align="right" alt="8c92ad8b78370d3d8162676dd19b32e6" height="140" style="border-radius:100px;" src="https://i.pinimg.com/originals/a4/e8/13/a4e813a5631b0f0f17b2d8b6764c78a0.gif">
+   <img align="right" alt="8c92ad8b78370d3d8162676dd19b32e6" height="140" style="border-radius:100px; margin-up: 5px" src="https://i.pinimg.com/originals/a4/e8/13/a4e813a5631b0f0f17b2d8b6764c78a0.gif">
 </div>
  </div>
 
